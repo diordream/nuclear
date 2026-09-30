@@ -5,7 +5,7 @@
       "description": "Music streaming app for your desktop"
     },
     "actions": {
-      "save": "Save",
+      "save": "Savea",
       "cancel": "Cancel",
       "delete": "Delete",
       "edit": "Edit",
